@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x7-risk&label=Profile%20views&color=0e75b6&style=flat" alt="KaliYang" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/x7_risk" target="blank"><img src="https://img.shields.io/twitter/follow/x7_risk?logo=twitter&style=for-the-badge" alt="x7_risk" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Kali_Yang" target="blank"><img src="https://img.shields.io/twitter/follow/Kali_Yang?logo=twitter&style=for-the-badge" alt="KaliYang" /></a> </p>
 
 - 🌱 I’m currently learning **C, C++, Java, Python**
 
